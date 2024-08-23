@@ -1,0 +1,5 @@
+title: "My Personal Website"
+description: "A website about my professional work in research, teaching, and service."
+baseurl: ""  # leave this blank
+url: "https://username.github.io"  # replace with your GitHub Pages URL
+theme: jekyll-theme-minimal
