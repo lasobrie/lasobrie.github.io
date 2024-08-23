@@ -1,3 +1,12 @@
+<nav>
+  <a href="index.md">Home</a> |
+  <a href="research.md">Research</a> |
+  <a href="teaching.md">Teaching</a> |
+  <a href="service.md">Service</a>
+</nav>
+
+<br>
+
 # Service
 
 Welcome to my service page! Here you can find information about my contributions to the academic and local community.
@@ -13,7 +22,3 @@ Welcome to my service page! Here you can find information about my contributions
 - Company Visit at Barco, 5 May 2023
 - ICCRA Congress, 6 Dec 2023: ‘Harnessing predictive analytics in dashboards for real-time control room management’
 
-
-## To [Home](index.md)
-## To [Research](research.md)
-## To [Teaching](teaching.md)

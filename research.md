@@ -1,3 +1,12 @@
+<nav>
+  <a href="index.md">Home</a> |
+  <a href="research.md">Research</a> |
+  <a href="teaching.md">Teaching</a> |
+  <a href="service.md">Service</a>
+</nav>
+
+<br>
+
 # Research
 
 Welcome to my research page! Here you can find information about my research interests, projects, and publications.
@@ -35,7 +44,3 @@ Real-time decision support for human–machine interaction in digital railway co
 ## Awards
 - [First Place at the Poster Competition at INFORMS 2022 Railway Applications Section](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Railway-Applications/Railway-Poster-Competition)
 
-
-## To [Home](index.md)
-## To [Teaching](teaching.md)
-## To [Service](service.md)
