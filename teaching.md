@@ -1,13 +1,12 @@
-# Service
+# Teaching
 
-Welcome to my service page! Here you can find information about my contributions to the academic and local community.
+Welcome to my teaching page!
 
-## Professional Service
-- Role 1: Description of your role in professional service.
-- Role 2: Description of your role in professional service.
+## Course Involvement
+- Managerial Economics, Guest Lecture, IESEG School of Management, France
+- AI for Systems Engineering, Virginia Tech
 
-## Community Involvement
-- Initiative 1: Description of community involvement.
-- Initiative 2: Description of community involvement.
 
-## Back to [Home](index.md)
+## To [Home](index.md)
+## To [Research](research.md)
+## To [Sefvice](service.md)

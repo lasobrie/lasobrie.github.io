@@ -3,12 +3,16 @@
 Welcome to my service page! Here you can find information about my contributions to the academic and local community.
 
 ## Professional Service
-- Role 1: Description of your role in professional service.
-- Role 2: Description of your role in professional service.
+- Organization of an international academia-practitioner [workshop](https://ontracklab.com/workshop)
+- Spokesperson at EB 22 Department of Ghent University
+- Master Thesis Supervision at Ghent University at Faculty of Economics and Business Administration and Faculty of Medicine
+- Data and Server Management at Virginia Tech
 
-## Community Involvement
-- Initiative 1: Description of community involvement.
-- Initiative 2: Description of community involvement.
+## Outreach
+- Visiting Researcher at Infrabel
+- Company Visit at Barco, 5 May 2023
+- ICCRA Congress, 6 Dec 2023: ‘Harnessing predictive analytics in dashboards for real-time control room management’
+
 
 ## To [Home](index.md)
 ## To [Research](research.md)
