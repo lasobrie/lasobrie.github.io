@@ -9,4 +9,4 @@ Welcome to my teaching page!
 
 ## To [Home](index.md)
 ## To [Research](research.md)
-## To [Sefvice](service.md)
+## To [Service](service.md)
