@@ -1,11 +1,3 @@
-<nav>
-  <a href="index.md">Home</a> |
-  <a href="research.md">Research</a> |
-  <a href="teaching.md">Teaching</a> |
-  <a href="service.md">Service</a>
-</nav>
-
-<br>
 
 # Service
 
