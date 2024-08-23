@@ -8,4 +8,4 @@ theme: jekyll-theme-minimal # minima is a simple and widely-used Jekyll theme fo
 markdown: kramdown
 
 # Enable relative links handling
-relative_links: true
+# relative_links: true
