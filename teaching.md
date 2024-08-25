@@ -11,11 +11,11 @@ permalink: /teaching/
 
 <br>
 
-# Teaching
+## Teaching
 
 Welcome to my teaching page!
 
-## Course Involvement
+# Course Involvement
 - Managerial Economics, Guest Lecture, IESEG School of Management, France
 - AI for Systems Engineering, Virginia Tech
 
