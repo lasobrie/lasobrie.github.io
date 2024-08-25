@@ -1,4 +1,6 @@
+---
 permalink: /
+---
 
 <!-- Navigation Bar -->
 <nav>

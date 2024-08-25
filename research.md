@@ -1,4 +1,8 @@
-permalink: /research/
+---
+#layout: default
+#title: "Home"
+permalink: /
+---
 
 <nav>
   <a href="/">Home</a> |

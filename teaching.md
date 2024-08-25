@@ -1,4 +1,6 @@
+---
 permalink: /teaching/
+---
 
 <nav>
   <a href="/">Home</a> |
