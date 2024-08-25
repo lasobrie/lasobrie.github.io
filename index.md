@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /home/
 ---
 
 <!-- Navigation Bar -->
