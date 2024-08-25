@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Home"
+permalink: /
+---
 
 <!-- Navigation Bar -->
 <nav>

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Service"
+permalink: /
+---
+
 <nav>
   <a href="index.md">Home</a> |
   <a href="research.md">Research</a> |

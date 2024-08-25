@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Teaching"
+permalink: /
+---
+
 <nav>
   <a href="index.md">Home</a> |
   <a href="research.md">Research</a> |
