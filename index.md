@@ -1,3 +1,5 @@
+permalink: /
+
 <!-- Navigation Bar -->
 <nav>
   <a href="/">Home</a> |
