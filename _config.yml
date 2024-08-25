@@ -12,13 +12,13 @@ theme: minima
 # Add navigation links
 nav:
   - title: "Home"
-    url: /index.md
+    url: /
   - title: "Research"
-    url: /research.md
+    url: /research/
   - title: "Teaching"
-    url: /teaching.md
+    url: /teaching/
   - title: "Service"
-    url: /service.md
+    url: /service/
 
 # Enable relative links handling
 # relative_links: true
