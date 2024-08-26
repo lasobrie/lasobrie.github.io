@@ -15,7 +15,7 @@ permalink: /
 
 ## Welcome to My Personal Website
 
-<img src="picture.jpg" alt="My Photo" style="width: 150px; float: left; margin-right: 15px; margin-bottom: 15px;">
+<img src="picture.jpg" alt="My Photo" style="width: 160px; float: left; margin-right: 15px; margin-bottom: 15px;">
 <div style="text-align: justify;">
 <p><strong>Léon Sobrie, Ph.D.</strong>, is an incoming postdoctoral researcher at Virginia Tech in the Grado Department of Industrial and Systems Engineering. His research is conducted within the System Performance Lab; a multidisciplinary research lab that studies the interaction between people, technology, and organizations to optimize the performance of complex systems. The lab's ultimate goal is to design safe, effective and efficient systems, with a strong focus on the human in the loop. His ongoing research is funded by a National Science Foundation LEAP-HI grant led by Principal Investigator (PI) Professor Konstantinos Triantis, Ph.D.
 <!-- , focusing on human-machine interaction in socio-technical systems. -->
