@@ -35,12 +35,12 @@ Welcome to my research page! Here you can find information about my research int
 
 # Conferences
 Capturing complexity over space and time via deep learning: An application to real-time delay prediction in railways:
-- EURO2021 in Athens, Greece, 11-14 July 2021
-- INFORMS2021 in Anaheim, CA, USA, 24-27 October 2021
-- ORBEL36 in Gent, Belgium, 12-13 September 2022
+- EURO 2021 in Athens, Greece, 11-14 July 2021
+- INFORMS 2021 in Anaheim, CA, USA, 24-27 October 2021
+- ORBEL 36 in Gent, Belgium, 12-13 September 2022
 
 Explainable real-time predictive analytics on employee workload in digital railway control rooms:
-- EURO2022 in Espoo, Finland, 3-6 July 2022
+- EURO 2022 in Espoo, Finland, 3-6 July 2022
 - INFORMS 2022 in Indianapolis, IN, USA, 16-19 October 2022
 - hEART 2023 in Zürich, Switzerland, 6-8 September 2023
 
