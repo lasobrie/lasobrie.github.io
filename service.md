@@ -12,16 +12,16 @@ permalink: /service/
 
 ## Service
 
-Welcome to my service page! Here you can find information about my contributions to the academic and local community.
-
 # Professional Service
-- Organization of an international academia-practitioner [workshop](https://ontracklab.com/workshop)
-- Spokesperson at EB 22 Department of Ghent University
-- Master Thesis Supervision at Ghent University at Faculty of Economics and Business Administration and Faculty of Medicine
-- Data and Server Management at Virginia Tech
+- Organization of an international academia-practitioner [workshop](https://ontracklab.com/workshop), 2022
+- Reviewer at European Journal of Operational Research
+- Spokesperson at EB 22 Department of Ghent University, 2024
+- Master Thesis Supervision at Ghent University: Faculty of Economics and Business Administration and Faculty of Medicine, 2022-2025
+- PhD Student Mentoring, 2024-
 
 # Outreach
-- Visiting Researcher at Infrabel
+- Visiting Researcher at Infrabel, 2020-
 - Company Visit at Barco, 5 May 2023
-- ICCRA Congress, 6 Dec 2023: ‘Harnessing predictive analytics in dashboards for real-time control room management’
+- ICCRA Congress 2023 & 2024
+- Company Visit at Street Factory Brewing Company, South Boston, Virginia
 
