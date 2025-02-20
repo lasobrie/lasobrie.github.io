@@ -30,6 +30,14 @@ permalink: /research/
 - Publication 2: [Sobrie, L., Verschelde, M., & Roets, B. (2024). Explainable real-time predictive analytics on employee workload in digital railway control rooms. *European Journal of Operational Research, 317*(2), 437-448.](https://www.sciencedirect.com/science/article/pii/S0377221723007191)
 - Publication 3: [Sobrie, L., & Verschelde, M. (2024). Real-time decision support for human–machine interaction in digital railway control rooms. *Decision Support Systems, 181*, 114216.](https://www.sciencedirect.com/science/article/pii/S0167923624000496)
 
+# Under Review
+- Monitoring Production Pressure in Sociotechnical Systems: The Case of Belgian Railroads
+
+<!--# work-in-progress
+- Cognitive Load Matters: The Influence of Task Execution on Performance
+- The Effect of Success and Failure on Learning in Digital Control Rooms-->
+
+
 # Conferences
 - INFORMS Annual Meeting 2021, 2022, 2023 & 2024
 - hEART Conference 2023
