@@ -33,28 +33,11 @@ permalink: /research/
 # Under Review
 - Monitoring Production Pressure in Sociotechnical Systems: The Case of Belgian Railroads
 
-<!--# work-in-progress
-- Cognitive Load Matters: The Influence of Task Execution on Performance
-- The Effect of Success and Failure on Learning in Digital Control Rooms-->
-
-
 # Conferences
 - INFORMS Annual Meeting 2021, 2022, 2023 & 2024
 - hEART Conference 2023
 - EURO Conference 2021 & 2022
 - ORBEL 2022
-<!--Capturing complexity over space and time via deep learning: An application to real-time delay prediction in railways:
-- EURO 2021 in Athens, Greece, 11-14 July 2021
-- INFORMS 2021 in Anaheim, CA, USA, 24-27 October 2021
-- ORBEL 36 in Gent, Belgium, 12-13 September 2022
-
-Explainable real-time predictive analytics on employee workload in digital railway control rooms:
-- EURO 2022 in Espoo, Finland, 3-6 July 2022
-- INFORMS 2022 in Indianapolis, IN, USA, 16-19 October 2022
-- hEART 2023 in Zürich, Switzerland, 6-8 September 2023
-
-Real-time decision support for human–machine interaction in digital railway control rooms:
-- INFORMS 2023 in Phoenix, AZ, USA, 15-18 October 2023-->
 
 # Awards
 - [First Place at the Poster Competition at INFORMS 2022 Railway Applications Section](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Railway-Applications/Railway-Poster-Competition)
