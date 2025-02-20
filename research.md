@@ -37,6 +37,7 @@ permalink: /research/
 - INFORMS Annual Meeting 2021, 2022, 2023 & 2024
 - hEART Conference 2023
 - EURO Conference 2021 & 2022
+- On Track Lab Workshop 2022
 - ORBEL 2022
 
 # Awards
