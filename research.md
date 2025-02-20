@@ -22,8 +22,8 @@ permalink: /research/
 - Socio-Technical Systems
 
 # Affiliated Research Labs
-- [On Track Lab](https://ontracklab.com/) (2020-2024): PhD Candidate & Scientific Collaborator
-- [System Performance Lab](https://splvt.com/) (2024-): Postdoctoral Researcher
+- [On Track Lab](https://ontracklab.com/) (09/2020-08/2024): PhD Candidate & Scientific Collaborator
+- [System Performance Lab](https://splvt.com/) (09/2024-): Postdoctoral Researcher
 
 # Publications
 - Publication 1: [Sobrie, L., Verschelde, M., Hennebel, V., & Roets, B. (2023). Capturing complexity over space and time via deep learning: An application to real-time delay prediction in railways. *European Journal of Operational Research, 310*(3), 1201-1217.](https://www.sciencedirect.com/science/article/pii/S0377221723002631)
