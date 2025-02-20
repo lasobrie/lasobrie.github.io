@@ -6,6 +6,7 @@ url: "https://lasobrie.github.io"  # Replace with your actual GitHub Pages URL
 # Choose a theme
 # theme: jekyll-theme-minimal # minima is a simple and widely-used Jekyll theme for GitHub Pages
 theme: minima
+skin: dark
 
 # Ensure proper Markdown processing
 markdown: kramdown
