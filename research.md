@@ -18,6 +18,7 @@ permalink: /research/
 # My Research Interests
 - Business Analytics
 - Machine Learning
+- Behavioral Operations
 - Decision Support
 - Socio-Technical Systems
 
