@@ -36,7 +36,7 @@ permalink: /teaching/
 
 <p>
   <strong>Advanced Topics in Management Systems Engineering, Virginia Tech, USA  (Spring 2025)</strong><br>
-  <em>Prof. Dr. Kostas Triantis</em>
+  <em>Prof. Dr. Kostantinos P. Triantis</em>
 </p>
 <p>
   I offered course support and guidance for students working on projects focused on socio-technical systems. It merged management theory with engineering practice, addressing the complexities of modern management systems in technical environments.
