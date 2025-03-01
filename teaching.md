@@ -22,6 +22,8 @@ permalink: /teaching/
   A half-day lecture on Generative AI (GAI) and its impact on the labor market. In this lecture, I explained (i) the technology behind GAI, (ii) the multi-modal nature of GAI, (iii) the good, bad and ugly of GAI, and (iv) the impact of GAI on the labor market in line with the future of work.
 </p>
 
+<hr>
+
 <p>
   <strong>AI for Systems Engineering, Virginia Tech, USA (Fall 2024)</strong><br>
   <em>Prof. Dr. Joseph Godfrey</em>
@@ -29,6 +31,8 @@ permalink: /teaching/
 <p>
   This lecture provided a comprehensive exploration of deep learning (DL) from a systems engineering perspective. It covered the fundamentals of DL, modern architectures, the interplay between DL and generative AI, ethical considerations, and a variety of practical applications.
 </p>
+
+<hr>
 
 <p>
   <strong>Advanced Topics in Management Systems Engineering, Virginia Tech, USA  (Spring 2025)</strong><br>
