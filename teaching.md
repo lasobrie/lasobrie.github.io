@@ -20,7 +20,7 @@ A half-day lecture on Generative AI (GAI) and its impact on the labor market. In
 <p><strong>AI for Systems Engineering, Virginia Tech, USA of Prof. Dr. Joseph (Joe) Godfrey (Fall 2024)</strong> 
 A lecture on deep learning (DL) from a systems engineering perspective. In this lecture, I taught (i) the essentials of DL, (ii) DL architectures, (iii) DL and GAI, (iv) the ethics of DL, and (v) applications of DL.
 
-<p><strong>Advanced Topics in Manegement Systems Engineering, Virginia Tech, USA of Prof. Dr. Konstantinos P. Triantis (Spring 2025):</strong> 
+<p><strong>Advanced Topics in Management Systems Engineering, Virginia Tech, USA of Prof. Dr. Konstantinos P. Triantis (Spring 2025):</strong> 
 Course support and guidance for students in their course projects on socio-technical systems.
 
 
