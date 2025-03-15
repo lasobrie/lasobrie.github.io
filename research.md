@@ -32,7 +32,13 @@ permalink: /research/
 - Publication 3: [Sobrie, L., & Verschelde, M. (2024). Real-time decision support for human–machine interaction in digital railway control rooms. *Decision Support Systems, 181*, 114216.](https://www.sciencedirect.com/science/article/pii/S0167923624000496)
 
 # Under Review
-- Monitoring Production Pressure in Sociotechnical Systems: The Case of Belgian Railroads
+- Hashemian, S.M., Triantis, K., Sobrie,.L , Mohsenirad, S., Roets, B., & Asmild, M. Monitoring Production Pressure in Sociotechnical Systems: The Case of Belgian Railroads
+
+# Working Papers
+- Men, Sobrie, Dillon, Madsen, Triantis - To Automate or To Intervene? The Learning Effect of (Near-)Failure and (Near-)Success on Performance in Digital Control Rooms
+- Godfrey, Sobrie, Tomai, Triantis - A Problem Type Taxonomy using Donebedian's Structure-Process-Outcome Model
+- Sobrie, Men, Dillon, Madsen, Triantis - Cognitive Load Matters: Influence of Task Execution on Performance in Digital Control Rooms
+- Sobrie, Verschelde, Roets, Triantis - Pivoting towards User-centric Implementation of Business Analytics in Information Systems
 
 # Conferences
 - INFORMS Annual Meeting 2021, 2022, 2023 & 2024
