@@ -11,15 +11,15 @@ permalink: /teaching/
 
 <br>
 
-## Teaching
+# Teaching
 
-# Course Involvement
+## Course Involvement
 <p>
   <strong>Managerial Economics, Guest Lecture, IESEG School of Management, France  (Spring 2024)</strong><br>
   <em>Prof. Dr. Marijn Verschelde</em>
 </p>
 <p>
-  A half-day lecture on Generative AI (GAI) and its impact on the labor market. In this lecture, I explained (i) the technology behind GAI, (ii) the multi-modal nature of GAI, (iii) the good, bad and ugly of GAI, and (iv) the impact of GAI on the labor market in line with the future of work.
+  A half-day lecture on Generative AI (GenAI) and its impact on the labor market. In this lecture, I explained (i) the technology behind GenAI, (ii) the multi-modal nature of GenAI, (iii) the good, bad and ugly of GenAI, and (iv) the impact of GAI on the labor market in line with the future of work.
 </p>
 
 <hr>
@@ -36,7 +36,7 @@ permalink: /teaching/
 
 <p>
   <strong>Advanced Topics in Management Systems Engineering, Virginia Tech, USA  (Spring 2025)</strong><br>
-  <em>Prof. Dr. Kostantinos P. Triantis</em>
+  <em>Prof. Dr. Konstantinos P. Triantis</em>
 </p>
 <p>
   I offered course support and guidance for students working on projects focused on socio-technical systems. It merged management theory with engineering practice, addressing the complexities of modern management systems in technical environments.
