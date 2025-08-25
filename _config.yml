@@ -15,20 +15,21 @@ author:
   name: "Léon Sobrie, Ph.D."
   avatar: "/assets/images/picture_LeonS.jpg"
   bio: "Postdoctoral Researcher, Grado Department of Industrial & Systems Engineering, Virginia Tech"
-  location: "Blacksburg, VA"
+  location: "Alexandria, Virginia, USA"
   links:
     - label: Email
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:your.email@vt.edu"
+      url: "mailto:leonsobrie@vt.edu"
     - label: Google Scholar
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/"
+      icon: "google-scholar"
+      icon_pack: "ai"
+      url: "https://scholar.google.com/citations?user=jsTt39AAAAAJ&hl=nl&oi=ao"
     - label: GitHub
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/lasobrie"
     - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"
+      url: "https://www.linkedin.com/in/l%C3%A9on-sobrie-b1264a16b/"
 
 include: ["_pages"]
 collections:
