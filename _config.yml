@@ -1,26 +1,69 @@
 
-title: ""
+title: "Léon Sobrie"
+name: "Léon Sobrie"
 baseurl: ""
 url: "https://lasobrie.github.io"  # Replace with your actual GitHub Pages URL
 
-# Choose a theme
-# theme: jekyll-theme-minimal # minima is a simple and widely-used Jekyll theme for GitHub Pages
-theme: minima
-skin: dark
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+
+author:
+  name: "Léon Sobrie, Ph.D."
+  avatar: "/assets/images/picture_LeonS.jpg"
+  bio: "Postdoctoral Researcher, Grado Department of Industrial & Systems Engineering, Virginia Tech"
+  location: "Blacksburg, VA"
+  links:
+    - label: Email
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:your.email@vt.edu"
+    - label: Google Scholar
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/"
+    - label: GitHub
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: LinkedIn
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/"
+
+include: ["_pages"]
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+
+masthead:
+  title: "Léon Sobrie"
+
+atom_feed:
+  hide: true
 
 # Ensure proper Markdown processing
-markdown: kramdown
+# markdown: kramdown
 
 # Add navigation links
-nav:
-  - title: "Home"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Service"
-    url: /service/
+#nav:
+  #- title: "Home"
+  #  url: /
+  #- title: "Research"
+   # url: /research/
+  #- title: "Teaching"
+   # url: /teaching/
+  #- title: "Service"
+   # url: /service/
 
 # Enable relative links handling
 # relative_links: true

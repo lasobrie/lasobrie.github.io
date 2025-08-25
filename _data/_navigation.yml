@@ -1,0 +1,26 @@
+
+title: ""
+baseurl: ""
+url: "https://lasobrie.github.io"  # Replace with your actual GitHub Pages URL
+
+# Choose a theme
+# theme: jekyll-theme-minimal # minima is a simple and widely-used Jekyll theme for GitHub Pages
+theme: minima
+skin: dark
+
+# Ensure proper Markdown processing
+markdown: kramdown
+
+# Add navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Service"
+    url: /service/
+
+# Enable relative links handling
+# relative_links: true
