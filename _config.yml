@@ -5,9 +5,14 @@ url: "https://lasobrie.github.io"  # Replace with your actual GitHub Pages URL
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"   # try: air, contrast, dark, neon, sunrise, etc.
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
+
+# Top navigation (masthead menu)
+header:
+  nav: true
 
 
 author:
@@ -42,7 +47,7 @@ defaults:
       type: "pages"
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       classes: wide
 
 masthead:
