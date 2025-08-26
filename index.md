@@ -2,6 +2,7 @@
 layout: single
 title: "Welcome"
 author_profile: true
+permalink: /
 ---
 
 Welcome! I am **Léon Sobrie**, Postdoctoral Researcher at the System Performance Lab, 

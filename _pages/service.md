@@ -1,14 +1,7 @@
 ---
 permalink: /service/
 ---
-<nav>
-  <a href="/">Home</a> |
-  <a href="/research/">Research</a> |
-  <a href="/teaching/">Teaching</a> |
-  <a href="/service/">Service</a>
-</nav>
 
-<br>
 
 # Service
 

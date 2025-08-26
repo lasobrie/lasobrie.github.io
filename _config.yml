@@ -12,7 +12,7 @@ plugins:
 
 # Top navigation (masthead menu)
 header:
-  nav: true
+  nav: "main"
 
 
 author:
