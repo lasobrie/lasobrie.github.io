@@ -12,7 +12,7 @@ skin: dark
 markdown: kramdown
 
 # Add navigation links
-nav:
+main:
   - title: "Home"
     url: /
   - title: "Research"

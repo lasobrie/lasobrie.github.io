@@ -1,9 +1,6 @@
 ---
 permalink: /teaching/
 ---
-
-# Teaching
-
 ## Course Involvement
 <p>
   <strong>Managerial Economics, Guest Lecture, IESEG School of Management, France  (Spring 2024)</strong><br>

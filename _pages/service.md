@@ -1,10 +1,6 @@
 ---
 permalink: /service/
 ---
-
-
-# Service
-
 ## Professional Service
 - Organization of an international academia-practitioner [workshop](https://ontracklab.com/workshop), 2022
 - Reviewer at European Journal of Operational Research

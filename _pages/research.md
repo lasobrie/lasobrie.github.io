@@ -3,9 +3,6 @@
 #title: "Home"
 permalink: /research/
 ---
-
-# Research
-
 ## My Research Interests
 - Business Analytics
 - Machine Learning
