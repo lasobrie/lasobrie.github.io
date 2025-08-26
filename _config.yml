@@ -18,7 +18,7 @@ header:
 author:
   name: "Léon Sobrie, Ph.D."
   avatar: "/assets/images/picture_LeonS.jpg"
-  avatar_size: "200px" 
+  avatar_size: "400px" 
   bio: "Postdoctoral Researcher, Grado Department of Industrial & Systems Engineering, Virginia Tech"
   location: "Alexandria, Virginia, USA"
   links:
@@ -26,8 +26,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:leonsobrie@vt.edu"
     - label: Google Scholar
-      icon: "ai-google-scholar"
-      icon_pack: "ai"
+      icon: "fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=jsTt39AAAAAJ&hl=nl&oi=ao"
     - label: GitHub
       icon: "fab fa-fw fa-github"
