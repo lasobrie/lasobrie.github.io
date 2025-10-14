@@ -1,5 +1,5 @@
 ---
-layout: single-no-nav
+layout: default
 title: "Home"
 author_profile: true
 permalink: /

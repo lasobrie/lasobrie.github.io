@@ -1,5 +1,5 @@
 ---
-layout: single-no-nav
+layout: default
 title: "Research"
 permalink: /research/
 ---
