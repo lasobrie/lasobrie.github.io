@@ -1,0 +1,27 @@
+/* Local Academicons (minimal) */
+@font-face {
+  font-family: "Academicons";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url("/assets/fonts/academicons/academicons.woff2") format("woff2"),
+    url("/assets/fonts/academicons/academicons.woff") format("woff");
+}
+
+/* Base icon style (matches Academicons defaults) */
+.ai {
+  display: inline-block;
+  font: normal normal normal 1em/1 "Academicons";
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Google Scholar glyph (Unicode from Academicons) */
+.ai-google-scholar:before { content: "\e9d4"; }
+
+/* Optional square variant (uncomment if you want it available)
+.ai-google-scholar-square:before { content: "\e9d5"; }
+*/
+
