@@ -1,4 +1,5 @@
 ---
+title: "Teaching"
 permalink: /teaching/
 ---
 ## Course Involvement

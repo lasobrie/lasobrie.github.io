@@ -1,6 +1,6 @@
 ---
 #layout: default
-#title: "Home"
+title: "Research"
 permalink: /research/
 ---
 ## My Research Interests

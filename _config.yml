@@ -25,8 +25,8 @@ author:
     - label: Email
       icon: "fas fa-fw fa-envelope"
       url: "mailto:leonsobrie@vt.edu"
-    - label: Google Scholar
-      icon: "fa-graduation-cap"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=jsTt39AAAAAJ&hl=nl&oi=ao"
     - label: GitHub
       icon: "fab fa-fw fa-github"
