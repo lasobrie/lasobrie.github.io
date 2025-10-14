@@ -31,6 +31,9 @@ author:
     - label: GitHub
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lasobrie"
+    - label: "Hugging Face"
+      icon: "hf hf-huggingface"
+      url: "https://huggingface.co/lsobrie"
     - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/l%C3%A9on-sobrie-b1264a16b/"
