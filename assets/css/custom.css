@@ -1,9 +1,10 @@
 /* Bigger author photo */
 .author__avatar img {
-  width: 220px;   /* try 220px or 240px if you want larger */
-  height: auto;
+  width: 220px !important;  /* try 240px etc. */
+  height: auto !important;
 }
-.author__avatar { max-width: none; }
 
-/* Optional: small visual tweak to the bio block */
-.author__bio { margin-top: .75rem; }
+/* Allow larger container */
+.author__avatar {
+  max-width: none !important;
+}
