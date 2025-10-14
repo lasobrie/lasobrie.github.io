@@ -1,6 +1,6 @@
 /* Bigger author photo */
 .author__avatar img {
-  width: 300px !important;  /* try 240px etc. */
+  width: 600px !important;  /* try 240px etc. */
   height: auto !important;
 }
 
