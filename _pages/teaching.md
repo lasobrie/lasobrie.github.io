@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single-no-nav
 title: "Teaching"
 permalink: /teaching/
 ---
