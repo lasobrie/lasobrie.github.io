@@ -1,0 +1,9 @@
+/* Bigger author photo */
+.author__avatar img {
+  width: 220px;   /* try 220px or 240px if you want larger */
+  height: auto;
+}
+.author__avatar { max-width: none; }
+
+/* Optional: small visual tweak to the bio block */
+.author__bio { margin-top: .75rem; }
