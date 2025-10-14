@@ -8,3 +8,14 @@
 .author__avatar {
   max-width: none !important;
 }
+
+/* Hugging Face custom icon */
+.hf.hf-huggingface:before {
+  content: "";
+  display: inline-block;
+  width: 1em;                 /* matches other icons */
+  height: 1em;
+  vertical-align: -0.125em;   /* align with text baseline */
+  background: no-repeat center / contain url("/assets/icons/hf.svg");
+}
+
