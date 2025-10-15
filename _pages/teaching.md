@@ -7,7 +7,7 @@ My teaching philosophy is hands-on and user-centric: I aspire to teach through b
 
 ## Course Involvement
 <p>
-  <strong>Managerial Economics, Guest Lecture, IESEG School of Management, France  (Spring 2024)</strong><br>
+  <strong>Managerial Economics, Guest Lecture, IESEG School of Management, France  (Spring 2024).</strong><br>
   <em>Prof. Dr. Marijn Verschelde</em>
 </p>
 <p>
@@ -17,7 +17,7 @@ My teaching philosophy is hands-on and user-centric: I aspire to teach through b
 <hr>
 
 <p>
-  <strong>AI for Systems Engineering, Virginia Tech, USA (Fall 2024)</strong><br>
+  <strong>AI for Systems Engineering, Virginia Tech, USA (Fall 2024).</strong><br>
   <em>Prof. Dr. Joseph Godfrey</em>
 </p>
 <p>
@@ -27,7 +27,7 @@ My teaching philosophy is hands-on and user-centric: I aspire to teach through b
 <hr>
 
 <p>
-  <strong>Advanced Topics in Management Systems Engineering, Virginia Tech, USA  (Spring 2025)</strong><br>
+  <strong>Advanced Topics in Management Systems Engineering, Virginia Tech, USA  (Spring 2025).</strong><br>
   <em>Prof. Dr. Konstantinos P. Triantis</em>
 </p>
 <p>
@@ -37,7 +37,7 @@ My teaching philosophy is hands-on and user-centric: I aspire to teach through b
 <hr>
 
 <p>
-  <strong>Vibrant Virginia: The Future of Next: Empowering the Youth in Decision Science and Human-Machine Interactions through STEMkits  (Fall 2025)</strong><br>
+  <strong>Vibrant Virginia: The Future of Next: Empowering the Youth in Decision Science and Human-Machine Interactions through STEMkits  (Fall 2025).</strong><br>
   <em>Dr. Maria Tomai</em>
 </p>
 <p>
