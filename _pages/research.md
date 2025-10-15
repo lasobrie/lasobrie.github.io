@@ -58,13 +58,13 @@ My proven research track record includes publications in the *European Journal o
 
 
 ## Conference Participations
-- North Atlantic Productivity Workshop 2025 (Arlington, Virginia, USA).
-- People and AI in Digital Operations (Leuven, Belgium).
-- INFORMS Annual Meeting 2021 (online), 2022 (Indianapolis, Indiana, USA), 2023 (Phoenix, Arizona, USA) & 2024 (Seattle, Washington, USA).
-- hEART Conference 2023 (Zürich, Switzerland).
-- EURO Conference 2021 (online) & 2022 (Espoo, Finland).
-- On Track Lab Workshop 2022 (Ghent, Belgium).
-- ORBEL 2022 (Ghent, Belgium).
+- North Atlantic Productivity Workshop, 2025 (Arlington, Virginia, USA).
+- People and AI in Digital Operations, 2025 (Leuven, Belgium).
+- INFORMS Annual Meeting, 2021 (online), 2022 (Indianapolis, Indiana, USA), 2023 (Phoenix, Arizona, USA), 2024 (Seattle, Washington, USA).
+- hEART Conference, 2023 (Zürich, Switzerland).
+- EURO Conference, 2021 (online), 2022 (Espoo, Finland).
+- On Track Lab Workshop, 2022 (Ghent, Belgium).
+- ORBEL, 2022 (Ghent, Belgium).
 
 ## Awards and Grants
 - [First Place at the Poster Competition at INFORMS 2022 Railway Applications Section.](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Railway-Applications/Railway-Poster-Competition)
