@@ -14,7 +14,7 @@ My proven research track record includes publications in the *European Journal o
 ## Publications
 - [Explainable real-time predictive analytics on employee workload in digital railway control rooms. *European Journal of Operational Research*.](https://www.sciencedirect.com/science/article/pii/S0377221723007191)
 
-    Predictive employee workload analytics can empower management to undertake proactive prevention for mitigating workload peaks. For this purpose, we develop a real-time machine learning framework to predict and explain future workload in the digital control rooms for railway traffic management of Infrabel, Belgium’s railway infrastructure company. Using a two-stage approach that separates whether a workload category occurs from how much workload it brings, we benchmark models and find LightGBM performs best, with SHAP explaining drivers linked to human–machine interaction and team exposure. You access the developed application [here](https://uij1l2-l0on-sobrie.shinyapps.io/test_workload/).
+    Predictive employee workload analytics can empower management to undertake proactive prevention for mitigating workload peaks. For this purpose, we develop a real-time machine learning framework to predict and explain future workload in the digital control rooms for railway traffic management of Infrabel, Belgium’s railway infrastructure company. Using a two-stage approach that separates whether a workload category occurs from how much workload it brings, we benchmark models and find LightGBM performs best, with SHAP explaining drivers linked to human–machine interaction and team exposure. You can access the developed application [here](https://uij1l2-l0on-sobrie.shinyapps.io/test_workload/).
 
 - [Real-time decision support for human–machine interaction in digital railway control rooms. *Decision Support Systems*.](https://www.sciencedirect.com/science/article/pii/S0167923624000496)
 
@@ -50,11 +50,6 @@ My proven research track record includes publications in the *European Journal o
 
     1. Who You Call Matters: A Causal Machine Learning-Based Decision Support System for Sickness Prevention in Home Care.
 
-    2. Unintended Consequences from Adoption of Electronic Health Records (EHR) Technology.
-
-    3. An Enhanced Reason’s Resiliency Model to Strengthen Information Security Systems: Applying Policy as a Safeguard Layer Against Patient Record Breaches.
-
-    4. Modeling Household Evacuation Decisions Using Machine Learning: A Random Forest-Based Analysis of Hurricane Irma.
 
 
 ## Conference Participations
