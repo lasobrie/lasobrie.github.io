@@ -3,7 +3,7 @@ layout: single
 title: "Teaching"
 permalink: /teaching/
 ---
-My teaching philosophy is hands-on and user-centric: I aspire to teach through building and testing models in real contexts, then reflecting on trade-offs, ethics, and impact. I aim to develop clear thinkers and careful builders who can translate analytics into safe, people-centered decisions.
+My teaching philosophy is hands-on and student-centric: I aspire to teach through building and testing models in real contexts, then reflecting on trade-offs, ethics, and impact. I aim to develop clear thinkers and careful builders who can translate analytics into safe, people-centered decisions.
 
 ## Course Involvement
 <p>
