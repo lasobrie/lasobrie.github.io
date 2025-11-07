@@ -50,6 +50,12 @@ My proven research track record includes publications in the *European Journal o
 
     1. Who You Call Matters: A Causal Machine Learning-Based Decision Support System for Sickness Prevention in Home Care.
 
+## Research Ethics
+- IRB24-1363: *The Impact of Role Changes on Human Factors, Organizational Learning and Operational Outcomes in Socio-Technical Systems* 
+- CITI Social and Behavioral Research (SBR) Certification
+- UG-EB 2024-C: *Assessment of Mental Workload, Situational Awareness, Stress and Errors in Railway Traffic Control Centers*
+- UG-EB 2023-Q: *Interviews on Decision Support in Traffic Control Centers*
+
 
 
 ## Conference Participations
