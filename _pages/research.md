@@ -35,28 +35,20 @@ My proven research track record includes publications in the *European Journal o
 
 
 ## Working Papers
-- Conceptual working papers
+- A Problem Type Taxonomy using Donebedian's Structure-Process-Outcome Model.
 
-    1. A Problem Type Taxonomy using Donebedian's Structure-Process-Outcome Model.
+- Making a CASE for Ensembles that Learn from Operational Context.
 
+- Measuring and explaining efficiency of decision-making units in cooperative settings.
 
-- Methodological working papers
-
-    1. Making a CASE for Ensembles that Learn from Operational Context.
-
-    2. Measuring and explaining efficiency of decision-making units in cooperative settings.
-
-- Empirical working papers
-
-    1. Who You Call Matters: A Causal Machine Learning-Based Decision Support System for Sickness Prevention in Home Care.
+- Who You Call Matters: A Causal Machine Learning-Based Decision Support System for Sickness Prevention in Home Care.
 
 ## Research Ethics
+- IRB25-1137: *The Future of Next: Empowering Youth in Decision Science and Human-Automation Interactions Through "STEMkits"*
 - IRB24-1363: *The Impact of Role Changes on Human Factors, Organizational Learning and Operational Outcomes in Socio-Technical Systems* 
 - CITI Social and Behavioral Research (SBR) Certification
 - UG-EB 2024-C: *Assessment of Mental Workload, Situational Awareness, Stress and Errors in Railway Traffic Control Centers*
 - UG-EB 2023-Q: *Interviews on Decision Support in Traffic Control Centers*
-
-
 
 ## Conference Participations
 - North Atlantic Productivity Workshop, 2025 (Arlington, Virginia, USA).
