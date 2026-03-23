@@ -24,24 +24,21 @@ My proven research track record includes publications in the *European Journal o
 
     The paper compares a real-world implemented rule-based delay prediction system with a customized LSTM encoder-decoder deep learning model on railway signal data where trains are highly interdependent in space and time. Incorporating rich spatiotemporal features, the deep learning approach outperforms rules by about 18% on average, with gains exceeding 23% in more complex conditions; it also dissects performance across dense vs. rural areas, peak vs. off-peak, low vs. high delay, and pre- vs. mid-COVID. The deep model is implemented as a real-time decision support proof-of-concept at Infrabel.
 
-## Under Review
-- [Monitoring Production Pressure in Sociotechnical Systems: The Case of Belgian Railroads.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146216)
+- [Monitoring Production Pressure in Sociotechnical Systems: The Case of Belgian Railroads .*Safety Science*.](https://www.sciencedirect.com/science/article/pii/S0925753526000573)
 
     The paper introduces a quantitative way to measure and monitor Production Pressure (PrP) - the tension between efficiency and safety - in socio-technical systems by using Data Envelopment Analysis (DEA). Applied to Infrabel’s Traffic Control Centers in Belgium, the framework models PrP as the trade-off between network traffic density and operator overload, yielding nuanced diagnostics of when pressure risks becoming unsafe. The approach provides a data-driven basis for ongoing monitoring and safer, more efficient operations.
+
+## Working Papers
 
 - [Pivoting towards User-centric Implementation of Business Analytics in Information Systems.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5383812)
 
     The paper proposes PIVOT, a five-step framework (Plan, Inform, Verify, Observe, Tailor), to make business analytics implementations genuinely user-centric within information systems (IS). Grounded in five IS literature streams, PIVOT aligns user needs, technical capabilities, and organizational goals, guiding iterative deployment with feedback loops. A case study at Infrabel shows how PIVOT steers a proof-of-concept analytics tool toward clearer insights, stronger operational impact, and continuous refinement with end-user input.
 
 
-## Working Papers
-- A Problem Type Taxonomy using Donebedian's Structure-Process-Outcome Model.
+- [A Problem Type Taxonomy using Donebedian's Structure-Process-Outcome Model.]()
 
-- Making a CASE for Ensembles that Learn from Operational Context.
+    Not all organizational problems are puzzles with fixed structures and clear processes that give rise to computable outcomes. Contemporary problems in organizations often emerge from dynamic interactions among evolving structures, procedures, and outcomes. Building on Donabedian’s Structure-Process-Outcome (SPO) model, we propose a taxonomy that conceptualizes problems as “incomplete systems”. This taxonomy identifies six distinct problem archetypes: puzzle-solving, discovery, planning, design, invention, and innovation, each offering a unique approach to problem-solving. We illustrate the utility of this framework through a case study of Belgian railway Traffic Control Centers (TCCs), where human operators and autonomous technologies collaboratively manage a safety-critical environment. Interviews grounded in Transactive Memory Systems (TMS) theory show how the taxonomy facilitates the diagnosis of shared responsibility challenges, using the six archetypes as interpretive lenses. This work offers researchers and practitioners a practical tool for navigating problem-solving in dynamic organizational settings.
 
-- Measuring and explaining efficiency of decision-making units in cooperative settings.
-
-- Who You Call Matters: A Causal Machine Learning-Based Decision Support System for Sickness Prevention in Home Care.
 
 ## Research Ethics
 - IRB25-1137: *The Future of Next: Empowering Youth in Decision Science and Human-Automation Interactions Through "STEMkits"*
